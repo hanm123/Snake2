@@ -1,0 +1,9 @@
+# 编译产物与个人设置（不要提交）
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.log
+Thumbs.db
